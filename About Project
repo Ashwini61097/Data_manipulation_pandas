@@ -1,0 +1,4 @@
+Pandas is an open-source data analysis and data manipulation library written in python. 
+Pandas provide you with data structures and functions to work on structured data seamlessly. 
+The name Pandas refer to “Panel Data”, which means a structured dataset. 
+Here we have used 'Titanic' dataset to perform various operations on the dataset and understand how data manipulation can be done using the Pandas.
